@@ -1,63 +1,100 @@
-# Sri Ramya Panja
+# Hello! I'm Sri Ramya Panja 👋
 
-**Dentist turned Health Informatics Developer** 🦷 → 💻
+My background is in clinical healthcare — I trained as a dentist, with a strong foundation in biology and patient care. My Master's in Health Informatics at Indiana University Indianapolis opened that up to a much broader world: software engineering, data pipelines, applied AI, and the systems that clinicians actually rely on. I now build across that full stack, from EHR integrations to mobile apps to LLM evaluation.
 
-MS Health Informatics @ Indiana University Indianapolis. I build at the intersection of clinical workflows, healthcare data standards, and applied AI — because the systems clinicians use interest me more than the clinic did.
+<br>
+<br>
+
+## 🧪 Projects
 
 <br>
 
-## Projects
+### [FHIR ETL Pipeline](https://github.com/sriramyapanja/FHIR_ETL_Pipeline_Project)
 
-**[FHIR ETL Pipeline →](https://github.com/sriramyapanja/FHIR_ETL_Pipeline_Project)**
 Production-style ETL migrating patient data between EHRs, enriched with SNOMED CT.
-`FHIR R4` · `SNOMED CT` · `OpenEMR` · `Python`
 
-**[Smart EMR →](https://github.com/sriramyapanja/smart-emr-app)**
-Full-stack EMR system — patients, diagnoses, treatments, pathology, radiology, appointments.
-`React` · `Express` · `MySQL` · `Node.js`
+`FHIR R4`  ·  `SNOMED CT`  ·  `OpenEMR`  ·  `Python`
 
-**[Semantic Search API →](https://github.com/sriramyapanja/Semantic-Search-API-with-S-BERT-and-RAG-LLM)**
+<br>
+
+### [Smart EMR](https://github.com/sriramyapanja/smart-emr-app)
+
+Full-stack EMR — patients, diagnoses, treatments, pathology, radiology, appointments.
+
+`React`  ·  `Express`  ·  `MySQL`  ·  `Node.js`
+
+<br>
+
+### [Semantic Search API](https://github.com/sriramyapanja/Semantic-Search-API-with-S-BERT-and-RAG-LLM)
+
 S-BERT + RAG over 344K records, with a Ragas evaluation layer I added on top of the course material.
-`S-BERT` · `LangChain` · `FAISS` · `Ragas` · `OpenAI`
 
-**[ER Visit Analysis →](https://github.com/sriramyapanja/Emergency-room-visit-analysis)**
+`S-BERT`  ·  `LangChain`  ·  `FAISS`  ·  `Ragas`  ·  `OpenAI`
+
+<br>
+
+### [ER Visit Analysis](https://github.com/sriramyapanja/Emergency-room-visit-analysis)
+
 OpenEMR exports → MySQL → analysis of ~344K visits. Findings on vitals-to-admission correlation and prescription follow-up.
-`Python` · `MySQL` · `Pandas` · `Jupyter`
 
-**[ReelBreak →](https://github.com/sriramyapanja/ReelBreak-app)**
-Mobile app for mindful social media use. The interface itself is the intervention.
-`React Native` · `Expo` · `TypeScript`
+`Python`  ·  `MySQL`  ·  `Pandas`  ·  `Jupyter`
 
 <br>
 
-## Research
+### [ReelBreak](https://github.com/sriramyapanja/ReelBreak-app)
 
-**[FAIRifying AI for Clinical Research →](https://github.com/RobQuickIU/FAIRify)**
+A mobile app for mindful social media use. The interface itself is the intervention.
+
+`React Native`  ·  `Expo`  ·  `TypeScript`
+
+<br>
+<br>
+
+## 📚 Research
+
+<br>
+
+### [FAIRifying AI for Clinical Research](https://github.com/RobQuickIU/FAIRify)
+
 Co-authored with a PhD student on making clinical AI models reusable and reproducible.
-`FAIR principles` · `Docker` · `YAML` · `Python`
+
+`FAIR principles`  ·  `Docker`  ·  `YAML`  ·  `Python`
 
 <br>
+<br>
 
-## Toolbelt
+## 🛠 Toolbelt
+
+<br>
 
 | | |
 |---|---|
-| **Languages** | Python · JavaScript/TypeScript · SQL · R |
-| **Web & Mobile** | React · React Native · Node.js · Express · Flask |
-| **Data & AI** | Pandas · NumPy · Sentence Transformers · FAISS · LangChain · Ragas |
-| **Databases** | MySQL · PostgreSQL |
-| **Health IT** | FHIR R4 · HL7 · SNOMED CT · LOINC · ICD-10 · OpenEMR |
-| **DevOps** | Docker · Git · REST APIs |
-| **Viz & BI** | Power BI · Tableau · matplotlib |
+| **Languages** | Python  ·  JavaScript / TypeScript  ·  SQL  ·  R |
+| **Web & Mobile** | React  ·  React Native  ·  Node.js  ·  Express  ·  Flask |
+| **Data & AI** | Pandas  ·  NumPy  ·  Sentence Transformers  ·  FAISS  ·  LangChain  ·  Ragas |
+| **Databases** | MySQL  ·  PostgreSQL |
+| **Health IT** | FHIR R4  ·  HL7  ·  SNOMED CT  ·  LOINC  ·  ICD-10  ·  OpenEMR |
+| **DevOps** | Docker  ·  Git  ·  REST APIs |
+| **Viz & BI** | Power BI  ·  Tableau  ·  matplotlib |
+
+<br>
+<br>
+
+## 💬 Talk to me about
 
 <br>
 
-## Talk to me about
+Clinical informatics  ·  EHR systems  ·  RAG pipelines  ·  LLM evaluation  ·  moving from clinical practice into tech  ·  your teeth 🦷
 
-Clinical informatics · EHR systems · RAG pipelines · LLM evaluation · moving from clinical practice into tech · your teeth 🦷
-
+<br>
 <br>
 
 ---
 
-📧 [panjasriramya@gmail.com](mailto:panjasriramya@gmail.com)  ·  💼 [LinkedIn](https://www.linkedin.com/in/sriramyapanja)  ·  💻 [Projects](https://github.com/sriramyapanja?tab=repositories)
+<br>
+
+📧  [panjasriramya@gmail.com](mailto:panjasriramya@gmail.com)
+
+💼  [LinkedIn](https://www.linkedin.com/in/sriramyapanja)
+
+💻  [All Projects](https://github.com/sriramyapanja?tab=repositories)

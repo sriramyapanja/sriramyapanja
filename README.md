@@ -51,7 +51,7 @@ A mobile app for mindful social media use. The interface itself is the intervent
 <br>
 <br>
 
-## 📚 Research
+##  Research
 
 <br>
 
@@ -64,7 +64,7 @@ Co-authored with a PhD student on making clinical AI models reusable and reprodu
 <br>
 <br>
 
-## 🛠 Toolbelt
+##  Toolbelt
 
 <br>
 
@@ -81,7 +81,7 @@ Co-authored with a PhD student on making clinical AI models reusable and reprodu
 <br>
 <br>
 
-## 💬 Talk to me about
+##  Talk to me about
 
 <br>
 
@@ -94,8 +94,8 @@ Clinical informatics  ·  EHR systems  ·  RAG pipelines  ·  LLM evaluation  ·
 
 <br>
 
-📧  [panjasriramya@gmail.com](mailto:panjasriramya@gmail.com)
+  [panjasriramya@gmail.com](mailto:panjasriramya@gmail.com)
 
-💼  [LinkedIn](https://www.linkedin.com/in/sriramyapanja)
+  [LinkedIn](https://www.linkedin.com/in/sriramyapanja)
 
-💻  [All Projects](https://github.com/sriramyapanja?tab=repositories)
+  [All Projects](https://github.com/sriramyapanja?tab=repositories)

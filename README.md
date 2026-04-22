@@ -1,11 +1,19 @@
-# Hello! I'm Sri Ramya Panja 👋
+# Hello! My name is Sri Ramya Panja which means 
 
-My background is in clinical healthcare — I trained as a dentist, with a strong foundation in biology and patient care. My Master's in Health Informatics at Indiana University Indianapolis opened that up to a much broader world: software engineering, data pipelines, applied AI, and the systems that clinicians actually rely on. I now build across that full stack, from EHR integrations to mobile apps to LLM evaluation.
+My background is in clinical healthcare, I trained as a dentist, with a strong foundation in biology and patient care. I hold a Master's in Health Informatics from Indiana University IndianapoliS. I now work across building EHR integrations, full-stack clinical applications, RAG pipelines with LLM evaluation, and mobile apps grounded in behavioral research.
 
 <br>
 <br>
 
-## 🧪 Projects
+## My projects
+
+<br>
+
+### [Semantic Search API](https://github.com/sriramyapanja/Semantic-Search-API-with-S-BERT-and-RAG-LLM)
+
+S-BERT + RAG over 344K records, with a Ragas evaluation layer I added on top of the course material.
+
+`S-BERT`  ·  `LangChain`  ·  `FAISS`  ·  `Ragas`  ·  `OpenAI`
 
 <br>
 
@@ -23,13 +31,6 @@ Full-stack EMR — patients, diagnoses, treatments, pathology, radiology, appoin
 
 `React`  ·  `Express`  ·  `MySQL`  ·  `Node.js`
 
-<br>
-
-### [Semantic Search API](https://github.com/sriramyapanja/Semantic-Search-API-with-S-BERT-and-RAG-LLM)
-
-S-BERT + RAG over 344K records, with a Ragas evaluation layer I added on top of the course material.
-
-`S-BERT`  ·  `LangChain`  ·  `FAISS`  ·  `Ragas`  ·  `OpenAI`
 
 <br>
 

@@ -1,4 +1,4 @@
-# Hello! My name is Sri Ramya Panja which means 
+# Hello! My name is Sri Ramya Panja
 
 My background is in clinical healthcare, I trained as a dentist, with a strong foundation in biology and patient care. I hold a Master's in Health Informatics from Indiana University IndianapoliS. I now work across building EHR integrations, full-stack clinical applications, RAG pipelines with LLM evaluation, and mobile apps grounded in behavioral research.
 
